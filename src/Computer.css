@@ -1,0 +1,19 @@
+h3{
+    font-size: 30px;
+    font-weight: bold;
+}
+.proname{
+    font-weight: bold;
+    font-size: 22px;
+}
+.price{
+    color: rgba(190, 2, 2, 0.959);
+    font-weight: bold;
+}
+.cart_main_2{
+    padding-top: 80px;
+}
+.cart_main_3{
+    padding-top: 130px;
+    
+}
